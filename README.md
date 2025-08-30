@@ -5,6 +5,3 @@ mfbgmfn
 
 *ghjkjkl   hgfgdh
 
-
-aafsgdhcbcsesgh
-
