@@ -1,9 +1,5 @@
 # hfdbn
 kgh ifhw
-ndngbmnn
-mfbgmfn
-
-*ghjkjkl   hgfgdh
-
+nhghfgxcgvhbjnkm.,oighfg  fhgjkl
 bvcvhgn
 
