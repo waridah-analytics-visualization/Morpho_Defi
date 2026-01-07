@@ -1,4 +1,9 @@
 Chart 1: TVL Over Time
+![TVL- Nov-Jan2026.png](https://github.com/waridah-analytics-visualization/Morpho_Defi/blob/main/TVL-%20Nov-Jan2026.png)
+
+
+
+
 Screenshot: DefiLlama Morpho TVL chart (April 2024 - Jan 2026)
 Caption below image:
 "Morpho Protocol Total Value Locked - 21-month trend showing protocol growth and capital inflows across all chains."
@@ -6,6 +11,7 @@ One-line note:
 "TVL peaked at $XXM in [month], indicating strong institutional confidence during [market condition]."
 
 Chart 2: Borrow & Supply Trends (Utilization Framework)
+![]()
 Screenshot: Two Dune charts side-by-side
 
 Left: Cumulated Borrow USD per market
@@ -19,6 +25,7 @@ Dec 15-21, 2024: $XXM borrow ÷ $XXM supply = 78% utilization
 → Strong capital efficiency signal for BD positioning
 
 Chart 3: Top Borrowers
+![]()
 Screenshot: Dune "Top Borrowers" table (top 10 rows)
 Caption below image:
 "Top 10 Borrowing Addresses - Priority targets for co-designed vault products and institutional partnerships."
@@ -28,6 +35,7 @@ Addresses with >$5M positions flagged for proactive BD outreach
 
 
 Chart 4: Cohort Analysis
+![]()
 Screenshot: Dune "Weekly Interactive Users" chart OR create simple table
 If using Dune chart - Caption:
 "User Cohort Activity: Weekly active addresses tracked to measure protocol stickiness and retention patterns."
