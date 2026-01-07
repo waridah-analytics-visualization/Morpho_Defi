@@ -1,3 +1,6 @@
+# Objective
+>Monitor lending flows and surface on-chain BD opportunities for modular DeFi lending protocols like Morpho. Track protocol health, asset utilization, and cohort retention to inform partnerships and incentive design.
+
 #  Chart 1: TVL Over Time  
 
 <img width="1595" height="530" alt="TVL- Nov-Jan2026" src="https://github.com/user-attachments/assets/1f317295-0e11-4649-9f29-8a829f1778ff" />
