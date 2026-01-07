@@ -1,5 +1,5 @@
 # Objective
->Monitor lending flows and surface on-chain BD opportunities for modular DeFi lending protocols like Morpho. Track protocol health, asset utilization, and cohort retention to inform partnerships and incentive design.
+>Monitor lending flows and surface on-chain BD opportunities for modular DeFi lending protocols, in this case Morpho. Track protocol health, asset utilization, and cohort retention to inform partnerships and incentive design.
 
 # Daily, Weekly and Deep Dive analysis based on signals or query
 
