@@ -56,4 +56,4 @@ DAILY BD SIGNALS - January 7, 2026
 - ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-######Footer note: "Signal sources: Dune Analytics, DefiLlama, Morpho governance forum monitoring."
+###### Footer note: "Signal sources: Dune Analytics, DefiLlama, Morpho governance forum monitoring."
