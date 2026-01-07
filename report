@@ -1,1 +1,54 @@
+Chart 1: TVL Over Time
+Screenshot: DefiLlama Morpho TVL chart (April 2024 - Jan 2026)
+Caption below image:
+"Morpho Protocol Total Value Locked - 21-month trend showing protocol growth and capital inflows across all chains."
+One-line note:
+"TVL peaked at $XXM in [month], indicating strong institutional confidence during [market condition]."
 
+Chart 2: Borrow & Supply Trends (Utilization Framework)
+Screenshot: Two Dune charts side-by-side
+
+Left: Cumulated Borrow USD per market
+Right: Cumulated Supply USD per market
+
+Caption below images:
+"Utilization Rate Framework: Borrow/Supply ratio calculated across time periods to identify capital efficiency patterns."
+Box with example calculation:
+Example Calculation:
+Dec 15-21, 2024: $XXM borrow ÷ $XXM supply = 78% utilization
+→ Strong capital efficiency signal for BD positioning
+
+Chart 3: Top Borrowers
+Screenshot: Dune "Top Borrowers" table (top 10 rows)
+Caption below image:
+"Top 10 Borrowing Addresses - Priority targets for co-designed vault products and institutional partnerships."
+Bullet note:
+
+Addresses with >$5M positions flagged for proactive BD outreach
+
+
+Chart 4: Cohort Analysis
+Screenshot: Dune "Weekly Interactive Users" chart OR create simple table
+If using Dune chart - Caption:
+"User Cohort Activity: Weekly active addresses tracked to measure protocol stickiness and retention patterns."
+If creating table - Format:
+WeekNew DepositorsNoteOct W1100 walletsBaseline cohortOct W2150 wallets+50% growthNov W1180 walletsSustained momentum
+Caption: "Cohort framework - production version tracks 30/60/90-day wallet retention via Dune SQL queries."
+
+Chart 5: Daily BD Signals
+No screenshot - Just formatted text box:
+┌─────────────────────────────────────────────────────┐
+│ 📊 DAILY BD SIGNALS - January 7, 2026              │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│ • Base Chain TVL +8% WoW (DefiLlama)               │
+│   → Opportunity: Expand L2-native vault offerings  │
+│                                                     │
+│ • Top 5 borrowers increased positions avg 15%      │
+│   → Action: Outreach for co-designed products      │
+│                                                     │
+│ • Gauntlet risk parameters under governance review │
+│   → Insight: Anticipate market cap adjustments     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+Footer note: "Signal sources: Dune Analytics, DefiLlama, Morpho governance forum monitoring."
