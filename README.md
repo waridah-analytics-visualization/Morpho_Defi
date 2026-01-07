@@ -46,16 +46,21 @@ Example: Dec 15-21, 2024 → 78% utilization (strong capital efficiency signal)
 Tools & Resources
 - Data Collection 
 > Dune Analytics - On-chain SQL queries and dashboards
+
 > DefiLlama - Protocol TVL and competitive analysis
 
 - Research Sources
 > Morpho Forum - Governance discussions
+
 > Morpho Blog - Partnership announcements
+
 > Dune Community Dashboards - User-generated analytics
 
 - Notes on Methodology
 > Data Authenticity: All charts and metrics sourced from live protocols (Morpho, via Dune/DefiLlama). Cohort analysis demonstrates analytical framework—production version would require direct wallet tracking via Dune queries or Nansen integration. The aforementioned sample insights are examples and not sources from live protocols.
+
 > Timeframe: Analysis covers April 2024 - January 2026 period based on available dashboard data.
+
 > Scope: Single protocol (Morpho) deep-dive to demonstrate domain-specific expertise vs broad multi-protocol survey.
 
 >> NB: This case study is for portfolio demonstration purposes. Data sources credited to Dune Analytics, DefiLlama, and TokenTerminal. Not financial advice.
