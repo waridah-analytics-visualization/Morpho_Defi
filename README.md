@@ -1,46 +1,21 @@
-#Overview
-morpho-defi-chain-intelligence/
-│
-├── README.md
-├── case_study.pdf                 
-│
-├── data/
-│   ├── screenshots/
-│   │   ├── morpho_tvl_defillama.png
-│   │   ├── borrow_trends_dune.png
-│   │   ├── supply_trends_dune.png
-│   │   └── top_borrowers_dune.png
-│   │
-│   └── sources.md                 # Links to all Dune/DefiLlama sources
-│
-├── analysis/
-│   ├── cohort_analysis.png        # User cohort visualization
-│   ├── dashboard_mockup.png       # Weekly reporting snapshot
-│   └── utilization_framework.png  # Borrow/supply overlay analysis
-│
-└── research/
-    ├── daily_signals_sample.md    # Mock BD signal brief
-    └─── deep_dive_analysis.md     # Vertical/chain deep-dive
-    
-
-#Objective
+ #Objective
 Monitor lending flows and surface on-chain BD opportunities for modular DeFi lending protocols like Morpho. Track protocol health, asset utilization, and cohort retention to inform partnerships and incentive design.
 
 #Methodology
-Data Sources: Dune Analytics, DefiLlama, TokenTerminal, Morpho governance forums
-Analysis Stack: Python for data manipulation, screenshot-based dashboards for rapid iteration
-Metrics Tracked: TVL trends, borrow/supply ratios, user cohorts
+>Data Sources: Dune Analytics, DefiLlama, TokenTerminal, Morpho governance forums
+>Analysis Stack: Python for data manipulation, screenshot-based dashboards for rapid iteration
+>Metrics Tracked: TVL trends, borrow/supply ratios, user cohorts
 
 #Key Deliverables
-Daily BD Signals: High-value wallet movements and partnership opportunities
-Weekly Dashboard: Protocol health metrics (asset utilization, chain growth, incentive ROI)
-Deep-Dive Analysis: Vertical-specific opportunities (LSTs, stablecoins, RWAs)
+>Daily BD Signals: High-value wallet movements and partnership opportunities
+>Weekly Dashboard: Protocol health metrics (asset utilization, chain growth, incentive ROI)
+>Deep-Dive Analysis: Vertical-specific opportunities (LSTs, stablecoins, RWAs)
 
 #Why This Approach
-Global regulatory compliance + Policy Advisory + AI Governance → On-Chain BD
-Regulatory lens: Identify institutional blockers (custody, compliance requirements)
-Governance fluency: Forecast capital movements by monitoring DAO proposals 2-4 weeks pre-execution
-Forensics background: Surface wallet relationships and flow patterns invisible in standard dashboards
+>Global regulatory compliance + Policy Advisory + AI Governance → On-Chain BD
+>Regulatory lens: Identify institutional blockers (custody, compliance requirements)
+>Governance fluency: Forecast capital movements by monitoring DAO proposals 2-4 weeks pre-execution
+>Forensics background: Surface wallet relationships and flow patterns invisible in standard dashboards
 
 >> my Previous experience in fintech data analysis, payments/virtual assets compliance, and AI governance reporting enables rigorous cadence for institutional DeFi partnerships.
 
@@ -55,7 +30,7 @@ Daily Signal Example (Jan 7, 2026)
 - Gauntlet risk parameter discussions in governance
   → Insight: Anticipate market cap adjustments for BD planning
   
-Utilization Rate Framework
+#Utilization Rate Framework
 > By overlaying borrow and supply trends across specific time periods, we calculate:
 > Utilization Rate = Cumulated Borrow USD / Cumulated Supply USD
 Example: Dec 15-21, 2024 → 78% utilization (strong capital efficiency signal)
@@ -65,16 +40,16 @@ Example: Dec 15-21, 2024 → 78% utilization (strong capital efficiency signal)
 Dune Analytics - On-chain SQL queries and dashboards
 DefiLlama - Protocol TVL and competitive analysis
 
->Research Sources
-Morpho Forum - Governance discussions
-Morpho Blog - Partnership announcements
-Dune Community Dashboards - User-generated analytics
+#Research Sources
+>Morpho Forum - Governance discussions
+>Morpho Blog - Partnership announcements
+>Dune Community Dashboards - User-generated analytics
 
 
 #Notes on Methodology
-Data Authenticity: All charts and metrics sourced from live protocols (Morpho, via Dune/DefiLlama). Cohort analysis demonstrates analytical framework—production version would require direct wallet tracking via Dune queries or Nansen integration. The aforementioned sample insights are examples and not sources from live protocols.
-Timeframe: Analysis covers April 2024 - January 2026 period based on available dashboard data.
-Focus: Single protocol (Morpho) deep-dive to demonstrate domain-specific expertise vs broad multi-protocol survey.
+>Data Authenticity: All charts and metrics sourced from live protocols (Morpho, via Dune/DefiLlama). Cohort analysis demonstrates analytical framework—production version would require direct wallet tracking via Dune queries or Nansen integration. The aforementioned sample insights are examples and not sources from live protocols.
+>Timeframe: Analysis covers April 2024 - January 2026 period based on available dashboard data.
+>Focus: Single protocol (Morpho) deep-dive to demonstrate domain-specific expertise vs broad multi-protocol survey.
 
 📄 License
 This case study is for portfolio demonstration purposes. Data sources credited to Dune Analytics, DefiLlama, and TokenTerminal. Not financial advice.
